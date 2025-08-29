@@ -92,7 +92,9 @@ pip install wandb IPython matplotlib
 ## 🔬 Evaluation
 
 1. Run evaluation
+
 ❗️ If you wanna do greedy decoding, please set DO_SAMPLE as False.
+
 ```bash
 
 export DO_SAMPLE=True

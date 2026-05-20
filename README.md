@@ -30,7 +30,7 @@ Efficient Off-policy Reinforcement Finetuning for Large Language Model
 </p>
 
 ## 📰 News
-<strong>[2026/01/26]</strong> 🎊 <strong>We got accepted by ICLR 2026.</strong> The training recipe of math mathematics tasks and code-generation tasks will be updated in Feburary.
+<strong>[2026/01/26]</strong> 🎊 <strong>We got accepted by ICLR 2026.</strong> The training recipe of math mathematics tasks and code-generation tasks will be updated in May.
 
 <strong>[2025/08/30]</strong> We release [`Remix-R1-Distilled-Qwen-1.5B`](https://huggingface.co/AnitaLeung/Remix-R1-Distilled-Qwen-1.5B) and [`Remix-R1-Distilled-Qwen-7B`](https://huggingface.co/AnitaLeung/Remix-R1-Distilled-Qwen-7B), the checkpoints of the ReMix-PPO reported in our paper. We also release a ready-to-use [`evaluation scripts`] that reproduces all benchmark results.
 
